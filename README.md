@@ -88,4 +88,8 @@ cout << (isNonDecreasing ? "Yes" : "No") << endl;
 
 ---
 
-Let me know if you want a [visual diagram](f) of how the comparison works or a [dry run](f) of the code on an example.
+The program starts by reading the number of test cases T. For each test case, it reads N, the number of problems the student solved, and then takes in N integers representing the difficulty of each problem.
+
+It then checks if the sequence of difficulties is non-decreasing. This means it compares each difficulty with the one before it. If it ever finds a difficulty that is smaller than the previous one, it marks the sequence as invalid and stops checking.
+
+Finally, if all difficulties were in non-decreasing order, it prints "Yes". Otherwise, it prints "No". This process repeats for each test case.
