@@ -1,7 +1,6 @@
 ### Difficulty Rating Order
 
 
-Sure! Let's go through the C++ code step by step to understand how it works:
 
 ---
 
