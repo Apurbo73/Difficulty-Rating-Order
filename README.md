@@ -1,4 +1,4 @@
-### Difficulty Rating Order
+### Difficulty Rating Order:
 
 
 
